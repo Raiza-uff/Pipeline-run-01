@@ -1,0 +1,20 @@
+{
+  "caminho_arquivo_finalidade": "dados_finalidade.csv",
+  "caminho_arquivo_dados_novo": "sales_dataset_compliance.csv",
+  "caminho_arquivo_dados": "sales_dataset.csv",  
+  "caminho_arquivo_contrato": "dados_contrato.csv",
+  "caminho_arquivo_consentimento": "dados_consentimento.csv",
+  "finalidade_consulta": "Traçar perfil",
+  "campo_finalidade": "Finalidade",
+  "campo_status": "Status",
+  "campo_identificacao": "CPF",
+  "campo_cpf": "CPF",
+  "campo_consent_level": "Consent Level",
+  "campo_consent_info": "Consent Info",
+  "campos_consentimento": [
+    "Sale ID", "Sale Date", "Product", "Quantity", "Price", "Customer ID", 
+    "Name", "CPF", "Email", "Customer Phone", "Customer Address", 
+    "Customer Gender", "Customer Birthdate", "Customer Race", 
+    "Customer Disability", "Contract"
+  ]
+}
